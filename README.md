@@ -4,8 +4,13 @@ Film collection build with Spring, Thymeleaf, JPA, Maven and Bootstrap
 ### Installation
 To run project download .zip file from Github, then run the following command in directory:
 
+For macOS & Linux:
 
 ``` ./mvnw spring-boot:run ```
+
+For Windows:
+
+``` mvnw spring-boot:run ```
 
 ### Images
 
