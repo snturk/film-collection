@@ -79,7 +79,7 @@ public class FilmServiceImpl implements FilmService {
             case "releaseDate":
                 film.setReleaseDate(inputValue);
                 break;
-            case "Genre":
+            case "genre":
                 film.setGenre(inputValue);
                 break;
             case "desc":
